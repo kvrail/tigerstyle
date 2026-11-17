@@ -5,6 +5,11 @@ All notable changes to the guide are documented in this file. The format follows
 
 ## [Unreleased]
 
+### Added
+
+- `TIGER_STYLE.ru.md`: Russian translation of revision r5. The English text holds where the two
+  differ.
+
 ## [r5] - 2026-11-17
 
 ### Added

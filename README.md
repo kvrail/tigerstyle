@@ -1,9 +1,14 @@
 # TigerStyle for KVRail
 
+English · [Русский](TIGER_STYLE.ru.md)
+
 [`TIGER_STYLE.md`](TIGER_STYLE.md) is "Adapting TigerStyle to Your Codebase": the coding style
 of the [TigerBeetle](https://github.com/tigerbeetle/tigerbeetle) database, restated for other
 codebases. It sorts the rules into baseline requirements, project-profile decisions and local
 conventions, and adds sections on security, adoption and language differences.
+
+[`TIGER_STYLE.ru.md`](TIGER_STYLE.ru.md) is the Russian translation of the same revision;
+where the two differ, the English text holds.
 
 It is an independent adaptation and is not endorsed by the TigerBeetle team. The original is
 [TigerStyle](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md).
